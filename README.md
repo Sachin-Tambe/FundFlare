@@ -191,4 +191,14 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 2. Athrva Butte
 3. Tanush Utekar
 
+# Here Is The Working Video 
 
+# Crowdfunding Platform for SMEs
+
+## Description
+
+This is a web-based crowdfunding platform aimed at helping Small and Medium Enterprises (SMEs) launch campaigns and gain support from backers. The platform provides features such as dynamic campaign listings, detailed campaign information, backer contributions, and SME campaign management. Users can browse campaigns, create new ones, contribute funds, and track campaign progress.
+
+[Watch the Demo on YouTube](https://youtu.be/iUThrBUEVtQ)
+
+---
