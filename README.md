@@ -199,6 +199,13 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 This is a web-based crowdfunding platform aimed at helping Small and Medium Enterprises (SMEs) launch campaigns and gain support from backers. The platform provides features such as dynamic campaign listings, detailed campaign information, backer contributions, and SME campaign management. Users can browse campaigns, create new ones, contribute funds, and track campaign progress.
 
-[Watch the Demo on YouTube](https://youtu.be/iUThrBUEVtQ)
+[W
+
+https://github.com/user-attachments/assets/17cdb091-1fab-41a1-867b-925cab179a72
+
+atch the Demo on YouTube](https://youtu.be/iUThrBUEVtQ) High Quality 
+
+
+
 
 ---
