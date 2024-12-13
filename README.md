@@ -6,7 +6,7 @@ This is a web-based crowdfunding platform aimed at helping Small and Medium Ente
 
 ## Live Demo
 
-Explore the live website here: [FundFlare](https://sachin-tambe.github.io/FundFlare/)
+Explore the live website here: [FundFlare](https://sachin-tambe.github.io/fundflare2/)
 ## Description
 
 This is a web-based crowdfunding platform aimed at helping Small and Medium Enterprises (SMEs) launch campaigns and gain support from backers. The platform provides features such as dynamic campaign listings, detailed campaign information, backer contributions, and SME campaign management. Users can browse campaigns, create new ones, contribute funds, and track campaign progress.
